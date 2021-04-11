@@ -12,7 +12,7 @@ class StartMenu:
         self.__option = None
         self.__buttons_xy = None
         self.__button_objects = None
-        self.__button_command = ["start game", "option 1", "quit game"]
+        self.__button_command = ["start game", "iterative mode", "quit game"]
         self.__title = "Conway's Game of Life - by Frazer Mills"
 
     @property
