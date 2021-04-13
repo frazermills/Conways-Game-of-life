@@ -1,8 +1,8 @@
 # Conways-Game-of-life:
 ---
 
-## This project is an adaptation of Conway's Game of Life
----
+## This project is an simulation of Conway's Game of Life
+[A demonstration of the project](https://www.youtube.com/watch?v=Onq-GCmSuPU)
 
 ## Rules of the game:
 
