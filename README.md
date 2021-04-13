@@ -23,7 +23,7 @@
 
 * [x] Implement the rules of the game and change each cell's values accordingly 
 
-* [ ] Add in a custom starting screen with:
+* [x] Add in a custom starting screen with:
 
 	* [ ] The ability to set custom values for the number of columns and rows
 
